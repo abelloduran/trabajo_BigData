@@ -1,0 +1,30 @@
+---
+title: Juan Antonio Abello             #- Hay que cambiarlo
+image: imagenes/e.png      #- poned una foto vuestra
+about:
+  template: trestles        #- {trestles, jolla, solana, ...}
+  image-width: 16em         #- https://cybmeta.com/em-y-rem
+  image-shape: rectangle    #- {rectangle, round, rounded}
+  links:
+    - icon: envelope
+      text: e-mail
+      url: "mailto:<juanadu@alumni.uv.es>"            #- pon tu e-mail
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/juan-antonio-abello-durán-332379263/   #- linkedin
+    - icon: github
+      text: Github
+      href: https://github.com/abelloduran         #- Github
+---
+        
+Hola, soy Juan Antonio Abello
+      
+Esta web sirve para presentar el trabajo final individual para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-23-24-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-23-24-web/05-trabajos-estudiantes.html){target="_blank"}.
+
+
+Mi trabajo lleva por título : "Agregados Macroeconómicos en España". El objetivo es elaborar un análisis detallado de los agregados macroeconómicos clave para la economía española y sus regiones. En concreto, de variables cruciales como la producción, la tasa de desempleo y la inflación.
+
+
+El trabajo puede verse [aquí](my_trabajo_BigData.html).
